@@ -5,7 +5,7 @@ A production-quality personal portfolio for **Hammad Zahid**  *AI Engineer | Dat
 Dark, premium, AI-themed single-page site built with React + Vite + TypeScript + Tailwind + Framer Motion. All content lives in `src/data/`, so updating projects, skills, links and certifications never requires touching UI code.
 
 ---
-
+Live:{(https://regal-chimera-603364.netlify.app/)}
 ## Features
 
 - Sticky glass navbar with active-section tracking, mobile hamburger menu, theme toggle and CV CTA

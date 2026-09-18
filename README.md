@@ -1,6 +1,6 @@
-# Hammad Zahid — AI Engineer & Data Analyst Portfolio
+# Hammad Zahid  AI Engineer & Data Analyst Portfolio
 
-A production-quality personal portfolio for **Hammad Zahid** — *AI Engineer | Data Analyst | Machine Learning | Generative AI | Python*.
+A production-quality personal portfolio for **Hammad Zahid**  *AI Engineer | Data Analyst | Machine Learning | Generative AI | Python*.
 
 Dark, premium, AI-themed single-page site built with React + Vite + TypeScript + Tailwind + Framer Motion. All content lives in `src/data/`, so updating projects, skills, links and certifications never requires touching UI code.
 
